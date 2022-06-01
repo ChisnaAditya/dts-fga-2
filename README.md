@@ -11,7 +11,7 @@ Ainan
 - [GitHub](https://www.github.com/ainandoo)
 
 Chisna Aditya Dewa
-- [GitHub] (https://github.com/ChisnaAditya)
+- [GitHub](https://github.com/ChisnaAditya)
 
 #### Terakhir di update: 01 Juni 2022
 Versi dokumen 1.3.101
